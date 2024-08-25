@@ -2,7 +2,7 @@
 layout: page
 title: PHYS 4017 Fluid Mechanics
 description: with background image
-img: assets/img/cover_fluid.png
+img: assets/img/fluid.jpg
 importance: 1
 category: work
 related_publications: true

@@ -1,81 +1,145 @@
 ---
 layout: page
+permalink: /teaching/phys4017/
 title: PHYS 4017 Fluid Mechanics
-description: with background image
+description: undergraduate elective course, 3 credits
 img: assets/img/fluid.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### **Course Description**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- An introduction to fluid dynamics from a physicist’s perspective.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### **Instructor**
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Chia-Yu Hu (胡家瑜), assistant professor at [Institute of Astrophysics, National Taiwan University](https://www.phys.ntu.edu.tw/astro/engastro/Default.html)
 
-{% raw %}
+- Office: R804, Astro-Math Building
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- Email: <huchiayu@phys.ntu.edu.tw>
 
-{% endraw %}
+
+### **Course Objective**
+
+
+- Understand the dynamics of fluids as continua
+
+- Become familiar with basic tensor operations and index notation
+
+- Get a glimpse of fluid dynamics in astrophysics
+
+- Prepare yourself for more advanced topics such as plasma physics or stellar dynamics
+
+
+### **Course Prerequisites**
+
+- Basic knowledge of vector calculus and thermodynamics
+
+
+### **Office Hour**
+
+- TBD in class
+
+
+
+
+### **References**
+
+- Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics, by Kip S. Thorne and Roger D. Blandford
+
+    - Highly pedagogical and insightful. Physically intuitive introduction to tensor algebra.
+
+    - An earlier version is freely available [online](http://www.pmaweb.caltech.edu/Courses/ph136/yr2012/) (see Chaps. 13 - 19)
+
+- The physics of astrophysics II: Gas dynamics, by Frank H. Shu
+
+    - A rigorous treatment to fluid equations from microscopic kinetic theory. Numerous astrophysical applications.
+
+
+- Fluid Mechanics, by L. D. Landau, E.M. Lifshitz
+
+    - A classic. A bit too terse for newbies.
+
+
+
+### **Grading**
+
+- **Homework (5 assignments): 70%**
+
+    - You are encouraged to discuss with your classmates! However, you must complete the homework independently.
+
+    - Homework is due a week after distribution. Late homework receives a 10% penalty per day (so zero after 10 days)
+
+- **Final Exam (closed book, cumulative): 30%**
+
+    - 12/18, in class
+
+- **Participation (extra credits): up to 3%**
+
+    - Summarize what we’ve learned last week on stage (~ 5 mins) in the beginning of each class. Come sign up!
+
+
+
+### **Schedule (tentative)**
+
+1. Ideal fluids
+    - math preamble (tensor calculus)
+    - Euler equations
+
+2. Dissipation
+    - Navier-Stokes equation
+    - energy dissipation
+
+3. Vorticity
+    - Kelvin’s theorem
+    - potential flow
+
+4. Steady flow and accretion
+    - hydrostatic equilibrium
+    - Bondi accretion
+
+5. Shocks
+    - characteristics and Riemann invariants
+    - Rankine-Hugoniot jump conditions
+    - Sedov-Taylor blastwave
+    - radiative shocks
+
+6. Waves
+    - sound waves
+    - gravity waves
+    - shallow water waves and solitons
+    - planetary waves (Rossby waves)
+
+7. Fluid instability
+    - gravitational instability
+    - Kelvin-Helmholtz and Rayleigh-Taylor instability
+    - convective instability
+    - rotational instability
+    - thermal instability
+
+8. Turbulence
+    - Kolmogorov energy spectrum
+    - supersonic turbulence
+    - turbulent mixing
+    - turbulent viscosity
+    - turbulence in 2D and inverse cascade
+
+9. Magnetohydrodynamics
+    - ideal MHD equations
+    - Alfven waves and magnetosonic waves
+    - nonideal MHD
+    - dynamo theory*
+    - magnetorotational instability*
+
+10. From kinetic theory to fluid dynamics*
+    - Boltzmann equation
+    - velocity moments
+    - the closure problem
+
+*if time permits

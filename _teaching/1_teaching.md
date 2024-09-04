@@ -88,6 +88,8 @@ related_publications: false
 
 ### **Schedule (tentative)**
 
+- [Introduction](https://huchiayu.github.io/assets/slides/intro.pptx)
+
 1. Ideal fluids
     - math preamble (tensor calculus)
     - Euler equations

@@ -90,7 +90,7 @@ related_publications: false
 
 - [Introduction](https://huchiayu.github.io/assets/slides/intro.pptx)
 
-1. [Ideal fluids](https://huchiayu.github.io/assets/psd/lecture1.pdf)
+1. [Ideal fluids](https://huchiayu.github.io/assets/pdf/lecture1.pdf)
     - math preamble (tensor calculus)
     - Euler equations
 

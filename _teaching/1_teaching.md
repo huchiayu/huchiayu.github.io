@@ -18,7 +18,7 @@ related_publications: false
 
 ### **Instructor**
 
-- Chia-Yu Hu (胡家瑜), assistant professor at [Institute of Astrophysics, National Taiwan University](https://www.phys.ntu.edu.tw/astro/engastro/Default.html)
+- [Chia-Yu Hu (胡家瑜)](https://huchiayu.github.io) 
 
 - Office: R804, Astro-Math Building
 
@@ -72,7 +72,7 @@ related_publications: false
 
 - **Homework (5 assignments): 70%**
 
-    - You are encouraged to discuss with your classmates! However, you must complete the homework independently.
+    - You are encouraged to discuss with your classmates! However, you must complete the homework independently.You are free to use textbooks, Google, Wikipedia, or even ChatGPT, but you are responsible for the correctness of your answers.
 
     - Homework is due a week after distribution. Late homework receives a 10% penalty per day (so zero after 10 days)
 
@@ -101,6 +101,7 @@ related_publications: false
 3. Vorticity
     - Kelvin’s theorem
     - potential flow
+
 
 4. Steady flow and accretion
     - hydrostatic equilibrium
@@ -145,3 +146,8 @@ related_publications: false
     - the closure problem
 
 *if time permits
+
+
+### **Homework Assignments**
+
+[Homework 1 (due 9/25)](https://huchiayu.github.io/assets/pdf/problemset1.pdf)

@@ -18,7 +18,7 @@ related_publications: false
 
 ### **Instructor**
 
-- [Chia-Yu Hu (胡家瑜)](https://huchiayu.github.io) 
+- [Chia-Yu Hu (胡家瑜)](https://huchiayu.github.io)
 
 - Office: R804, Astro-Math Building
 
@@ -94,7 +94,7 @@ related_publications: false
     - math preamble (tensor calculus)
     - Euler equations
 
-2. Dissipation
+2. [Dissipation](https://huchiayu.github.io/assets/pdf/lecture2.pdf)
     - Navier-Stokes equation
     - energy dissipation
 

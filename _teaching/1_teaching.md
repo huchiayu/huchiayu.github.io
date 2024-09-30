@@ -103,15 +103,13 @@ related_publications: false
     - potential flow
 
 
-4. Steady flow and accretion
-    - hydrostatic equilibrium
-    - Bondi accretion
+4. [Hydrostatic equilibrium](https://huchiayu.github.io/assets/pdf/lecture4.pdf)
+    - Lane-Emden equation
+    - Mass-size relation
 
-5. Shocks
-    - characteristics and Riemann invariants
-    - Rankine-Hugoniot jump conditions
-    - Sedov-Taylor blastwave
-    - radiative shocks
+5. [Accretion](https://huchiayu.github.io/assets/pdf/lecture5.pdf)
+   - Bondi accretion
+   - Accetion disk
 
 6. Waves
     - sound waves
@@ -119,28 +117,35 @@ related_publications: false
     - shallow water waves and solitons
     - planetary waves (Rossby waves)
 
-7. Fluid instability
+7. Shocks
+    - characteristics and Riemann invariants
+    - Rankine-Hugoniot jump conditions
+    - Sedov-Taylor blastwave
+    - radiative shocks
+
+
+8. Fluid instability
     - gravitational instability
     - Kelvin-Helmholtz and Rayleigh-Taylor instability
     - convective instability
     - rotational instability
     - thermal instability
 
-8. Turbulence
+9. Turbulence
     - Kolmogorov energy spectrum
     - supersonic turbulence
     - turbulent mixing
     - turbulent viscosity
     - turbulence in 2D and inverse cascade
 
-9. Magnetohydrodynamics
+10. Magnetohydrodynamics
     - ideal MHD equations
     - Alfven waves and magnetosonic waves
     - nonideal MHD
     - dynamo theory*
     - magnetorotational instability*
 
-10. From kinetic theory to fluid dynamics*
+11. From kinetic theory to fluid dynamics*
     - Boltzmann equation
     - velocity moments
     - the closure problem
